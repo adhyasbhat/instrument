@@ -21,16 +21,20 @@ button{
     width: auto;
 }
 .navbar{
-    margin-bottom: 2em;
+    
     background: transparent !important;
     
 }
 .navbar-brand{
     color: rgb(196, 57, 85) !important;
-    font-size: 3em;
+    font-size: 2em;
     text-align: center !important;
     text-shadow: 2px 2px wheat;
+
 }
 .navbar-brand:hover{
     color: chocolate;
+}
+lable{
+    color: rgb(196, 57, 85)
 }
